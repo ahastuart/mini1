@@ -1,0 +1,25 @@
+2024-11-07 10:22:56,665 | user_logger | ERROR | 23152 | 로그인 필요
+2024-11-07 10:23:13,910 | user_logger | INFO | 23152 | 로그인 시도 : test_user@example.com
+2024-11-07 10:23:14,192 | user_logger | INFO | 23152 | 로그인 성공 : test_user@example.com
+2024-11-07 10:23:14,258 | main_logger | INFO | 23152 | mainpage 방문
+2024-11-07 10:23:18,323 | board_logger | INFO | 23152 | 전체 상품 조회
+2024-11-07 10:23:21,987 | product_logger | INFO | 23152 | 게시글 조회
+2024-11-07 10:23:28,575 | product_logger | INFO | 23152 | 게시글 조회
+2024-11-07 10:23:34,536 | product_logger | INFO | 23152 | 5 수정
+2024-11-07 10:23:34,587 | product_logger | INFO | 23152 | 게시글 조회
+2024-11-07 10:23:36,251 | board_logger | INFO | 23152 | 전체 상품 조회
+2024-11-07 10:25:40,080 | product_logger | INFO | 23152 | userId : 1 title : test1 등록
+2024-11-07 10:25:40,091 | board_logger | INFO | 23152 | 전체 상품 조회
+2024-11-07 10:25:47,530 | product_logger | INFO | 23152 | userId : 1 title : test2 등록
+2024-11-07 10:25:47,544 | board_logger | INFO | 23152 | 전체 상품 조회
+2024-11-07 10:25:53,105 | board_logger | INFO | 23152 | 전체 상품 조회
+2024-11-07 10:26:08,087 | board_logger | INFO | 23152 | test 조회
+2024-11-07 10:26:11,734 | board_logger | INFO | 23152 | 전체 상품 조회
+2024-11-07 10:26:17,192 | board_logger | INFO | 23152 | post 조회
+2024-11-07 10:32:33,826 | user_logger | INFO | 23152 | 로그아웃 완료
+2024-11-07 10:32:33,857 | main_logger | INFO | 23152 | mainpage 방문
+2024-11-07 10:36:43,265 | user_logger | INFO | 23152 | 로그인 시도 : test_user@example.com
+2024-11-07 10:36:43,276 | user_logger | INFO | 23152 | 로그인 성공 : test_user@example.com
+2024-11-07 10:36:43,293 | main_logger | INFO | 23152 | mainpage 방문
+2024-11-07 11:33:24,267 | main_logger | INFO | 23152 | mainpage 방문
+2024-11-07 12:38:17,249 | main_logger | INFO | 23152 | mainpage 방문
